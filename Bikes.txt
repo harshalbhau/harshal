@@ -6,3 +6,5 @@ Here is bike list
 4.Yamha
 5.bullet
 6.Hero
+7.pulser
+8.Activa
